@@ -3,6 +3,6 @@
 
 <br>
 
-<font size="10">Welcome to the Fullstack Realtime Chat Website repository!</font>
+<font size="10">**Welcome to the Fullstack Realtime Chat Website repository!**</font>
 
 This project utilizes **React.js**, **Redux**, **RTK Query**, **Tailwind CSS**, **MongoDB**, **MongoDB Aggregation Pipelines**, **ExpressJS**, and **WebSockets** to create a comprehensive chat application. Users can chat with each other privately, send pictures, and videos. They can also send friend requests to each other.
