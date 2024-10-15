@@ -99,6 +99,7 @@ In this chat application, all chat content, including text messages and file att
 **Add this in  .env file in the root directory of Backend**
 <br>
 `ACCESS_TOKEN_SECRET
+<br>
 CLOUD_API_KEY`
 
 
