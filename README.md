@@ -79,14 +79,14 @@ In this chat application, all chat content, including text messages and file att
 ![Screenshot 2024-10-15 113251](https://github.com/user-attachments/assets/5a68d984-003d-4cae-99a6-569d32475bd9)
 <br>
 **Friend Section**
-<br>
-![Screenshot 2024-10-15 113340](https://github.com/user-attachments/assets/6dc359a6-7937-41ca-b724-61e70ca95aa6)
-<br>
+
+![Screenshot 2024-10-15 113340](https://github.com/user-attachments/assets/1ae705ed-2999-4906-b4d7-e69139bee8b3)
 
 
 
 
-![Screenshot 2024-10-15 112632](https://github.com/user-attachments/assets/2fc94ca1-2bb5-4ed6-9a04-4e354dbe4161)
+
+
 
 
 
