@@ -82,7 +82,9 @@ In this chat application, all chat content, including text messages and file att
 ![Screenshot 2024-10-15 113340](https://github.com/user-attachments/assets/1ae705ed-2999-4906-b4d7-e69139bee8b3)
 <br>
 
-
+# Cloning the Repository
+<br>
+` git clone https://github.com/Ravishekhar7870/ChatApp.git`
 
 
 
