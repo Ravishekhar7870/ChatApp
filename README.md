@@ -99,13 +99,37 @@ In this chat application, all chat content, including text messages and file att
 **Add this in  .env file in the root directory of Backend**
 <br>
 `ACCESS_TOKEN_SECRET=""`
+<br>
+
 `CLOUD_API_KEY=""`
+<br>
+
 `CLOUD_API_SECRET=""`
+<br>
+
 `CLOUD_NAME=""`
+<br>
+
 `EMAIL=""`
+<br>
+
 `FRONTEND_URL=""`
+<br>
+
 `MONGODB_URI=""`
+<br>
+
 `PASS=""`
+<br>
+`PORT="`
+<br>
+`REFRESH_TOKEN_SECRET`
+<br>
+`SERVER_URL`
+<br>
+# Starting the App
+<br>
+`npm run dev`
 
 
 
