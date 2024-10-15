@@ -98,8 +98,14 @@ In this chat application, all chat content, including text messages and file att
 
 **Add this in  .env file in the root directory of Backend**
 <br>
-```ACCESS_TOKEN_SECRET
-CLOUD_API_KEY```
+`ACCESS_TOKEN_SECRET=""`
+`CLOUD_API_KEY=""`
+`CLOUD_API_SECRET=""`
+`CLOUD_NAME=""`
+`EMAIL=""`
+`FRONTEND_URL=""`
+`MONGODB_URI=""`
+`PASS=""`
 
 
 
