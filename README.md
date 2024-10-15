@@ -86,6 +86,7 @@ In this chat application, all chat content, including text messages and file att
 
 
 
+![Screenshot 2024-10-15 112632](https://github.com/user-attachments/assets/2fc94ca1-2bb5-4ed6-9a04-4e354dbe4161)
 
 
 
