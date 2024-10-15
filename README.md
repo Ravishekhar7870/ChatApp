@@ -57,20 +57,17 @@ In this chat application, all chat content, including text messages and file att
 **Handling File Attachments:** For file attachments, the files are  stored directly in **cloud storage (cloudinary)**, ensuring scalability and efficiency. The emitted message includes all necessary information for the recipient to view or download the file.
 <br>
 # Pages Sanpshot ⭐:
-<br>
-**Login Page:**
 
+**Login Page:**
 ![Screenshot 2024-10-15 112632](https://github.com/user-attachments/assets/6ec06f40-9b60-442a-8b78-a073b8537fb5)
 <br>
 **SignUp Page:**
-
 ![Screenshot 2024-10-15 112903](https://github.com/user-attachments/assets/a40a297c-011f-4cc1-8f87-3b9f75995540)
 <br>
 **Home Page:**
 ![Screenshot 2024-10-11 162658](https://github.com/user-attachments/assets/a91edbc4-d370-45c6-9bcc-40b3ba3b2570)
 <br>
 **Chat Box:**
-
 ![Screenshot 2024-10-15 113119](https://github.com/user-attachments/assets/1c786176-7dc5-41ed-aa82-cdf5b8c2c741)
 <br>
 **Profile Section:**
