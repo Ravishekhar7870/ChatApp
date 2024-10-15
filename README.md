@@ -128,7 +128,7 @@ In this chat application, all chat content, including text messages and file att
 `SERVER_URL`
 <br>
 # Starting the App
-<br>
+
 `npm run dev`
 
 
