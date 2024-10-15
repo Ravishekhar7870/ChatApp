@@ -56,7 +56,7 @@ In this chat application, all chat content, including text messages and file att
 <br>
 **Handling File Attachments:** For file attachments, the files are  stored directly in **cloud storage (cloudinary)**, ensuring scalability and efficiency. The emitted message includes all necessary information for the recipient to view or download the file.
 <br>
-#Pages Sanpshot ⭐:
+# Pages Sanpshot ⭐:
 <br>
 **Login Page:**
 <br>
