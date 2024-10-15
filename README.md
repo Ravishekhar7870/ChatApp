@@ -59,28 +59,26 @@ In this chat application, all chat content, including text messages and file att
 # Pages Sanpshot ⭐:
 <br>
 **Login Page:**
-<br>
+
 ![Screenshot 2024-10-15 112632](https://github.com/user-attachments/assets/6ec06f40-9b60-442a-8b78-a073b8537fb5)
 <br>
 **SignUp Page:**
-<br>
+
 ![Screenshot 2024-10-15 112903](https://github.com/user-attachments/assets/a40a297c-011f-4cc1-8f87-3b9f75995540)
 <br>
 **Home Page:**
-<br>
 ![Screenshot 2024-10-11 162658](https://github.com/user-attachments/assets/a91edbc4-d370-45c6-9bcc-40b3ba3b2570)
 <br>
 **Chat Box:**
-<br>
+
 ![Screenshot 2024-10-15 113119](https://github.com/user-attachments/assets/1c786176-7dc5-41ed-aa82-cdf5b8c2c741)
 <br>
 **Profile Section:**
-<br>
 ![Screenshot 2024-10-15 113251](https://github.com/user-attachments/assets/5a68d984-003d-4cae-99a6-569d32475bd9)
 <br>
 **Friend Section**
-
 ![Screenshot 2024-10-15 113340](https://github.com/user-attachments/assets/1ae705ed-2999-4906-b4d7-e69139bee8b3)
+<br>
 
 
 
