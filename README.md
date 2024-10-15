@@ -61,7 +61,6 @@ In this chat application, all chat content, including text messages and file att
 **Login Page:**
 <br>
 ![Screenshot 2024-10-15 112632](https://github.com/user-attachments/assets/6ec06f40-9b60-442a-8b78-a073b8537fb5)
-
 <br>
 **SignUp Page:**
 <br>
