@@ -90,11 +90,16 @@ In this chat application, all chat content, including text messages and file att
 `npm install`
 # Environment Variables(.env files)
 
-**Add this in .env file in the Frontend/chat-app-frontend**
+**Add this in .env file in the root directory of Frontend/chat-app-frontend**
 <br>
 `VITE_URL_SERVER=""
 `
 <br>
+
+**Add this in  .env file in the root directory of Backend**
+<br>
+`ACCESS_TOKEN_SECRET
+CLOUD_API_KEY`
 
 
 
