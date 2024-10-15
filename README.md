@@ -91,6 +91,7 @@ In this chat application, all chat content, including text messages and file att
 # Environment Variables(.env files)
 
 **Add this in .env file in the Frontend/chat-app-frontend**
+<br>
 `VITE_URL_SERVER=""
 `
 
