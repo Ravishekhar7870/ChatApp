@@ -88,6 +88,11 @@ In this chat application, all chat content, including text messages and file att
 
 # Installation
 `npm install`
+# Environment Variables(.env files)
+
+**Add this in .env file in the Frontend/chat-app-frontend**
+`VITE_URL_SERVER=""
+`
 
 
 
