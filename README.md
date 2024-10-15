@@ -83,7 +83,7 @@ In this chat application, all chat content, including text messages and file att
 <br>
 
 # Cloning the Repository
-<br>
+
 ` git clone https://github.com/Ravishekhar7870/ChatApp.git`
 
 
