@@ -62,6 +62,7 @@ In this chat application, all chat content, including text messages and file att
 ![Screenshot 2024-10-15 112632](https://github.com/user-attachments/assets/6ec06f40-9b60-442a-8b78-a073b8537fb5)
 <br>
 **SignUp Page:**
+<br>
 ![Screenshot 2024-10-15 112903](https://github.com/user-attachments/assets/a40a297c-011f-4cc1-8f87-3b9f75995540)
 <br>
 **Home Page:**
